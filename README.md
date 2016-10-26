@@ -1,2 +1,0 @@
-# Final-oppgave
-Webprosject innlevering
